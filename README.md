@@ -1,1 +1,1 @@
-this is readme file for customer segmentation.
+This is readme file for customer segmentation.
