@@ -6,3 +6,6 @@
 // 11/5/2025
 // nothing to do
 // thats it for today
+
+for i in range(0,5):
+  print(i)
