@@ -7,5 +7,7 @@
 // nothing to do
 // thats it for today
 
-for i in range(0,5):
-  print(i)
+
+lists = ['list1', 'list2', 'list3']
+for list in lists:
+  print(list)
