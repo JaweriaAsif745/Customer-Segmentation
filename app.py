@@ -8,6 +8,6 @@
 // thats it for today
 
 
-lists = ['list1', 'list2', 'list3']
+lists = ['list1', 'list2', 'list3', 'list4']
 for list in lists:
   print(list)
